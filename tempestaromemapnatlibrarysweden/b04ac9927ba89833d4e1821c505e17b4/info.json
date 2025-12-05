@@ -1,0 +1,32 @@
+{
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/b04ac9927ba89833d4e1821c505e17b4",
+  "type": "ImageService3",
+  "profile": "level0",
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8,
+        16,
+        32
+      ],
+      "width": 256
+    }
+  ],
+  "width": 16000,
+  "height": 7470,
+  "sizes": [
+    {
+      "width": 300,
+      "height": 140
+    },
+    {
+      "width": 2000,
+      "height": 934
+    }
+  ]
+}

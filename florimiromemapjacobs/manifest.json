@@ -1,0 +1,486 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            null
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Document_type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Map"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Collection of Fredrika and Paul Jacobs"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Title"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Novissima urbis romae descriptio"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Overall_dimensions"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Sheet size: 37.3 x 52.5 cm"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Matteo Florimi"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "c. 1590‒1613"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Collection of Fredrika and Paul Jacobs"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Medium"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Etching and engraving"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language_of_document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Latin"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Places"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Altemps Palace at Monte Cavallo; Capitoline Hill (Campidoglio); Church of San Giovanni dei Fiorentini; Church of San Giuseppe dei Falegnami; Church of San Lorenzo in Lucina; Church of San Luca; Church of San Luigi dei Francesci; Church of San Pietro in Carcere; Church of Sant'Atanasio dei Greci; Church of Santa Maria del Popolo; Church of Santa Maria dell'Orto; Church of Santa Maria di Loreto; Church of Santa Maria in Ara Coeli; Church of Santa Maria Maggiore; Church of Santa Maria Rotonda (Pantheon); Church of Santa Maria sopra Minerva; Church of Santa Martina; Farnese Palace; Hospital of Santo Spirito; Piazza Colonna; Piazza della Minerva; Piazza di San Lorenzo in Lucina; Piazza Navona; Roman Forum (Campo Vaccino); Savelli Palace; Trinita dei Monti; Vatican (Apostolic) Palace"
+                ]
+            }
+        }
+    ],
+    "rights": "CC BY 4.0 (Attribution 4.0 International) https://creativecommons.org/licenses/by/4.0/",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/3775697fb2acf947389dec68e8c2ec0e/full/300,218/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 218,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1",
+            "type": "Canvas",
+            "height": 7248,
+            "width": 9961,
+            "label": {
+                "none": [
+                    "FlorimiRomeMap"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/3775697fb2acf947389dec68e8c2ec0e/full/300,218/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 218,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/3775697fb2acf947389dec68e8c2ec0e/full/2000,1455/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1455,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/3775697fb2acf947389dec68e8c2ec0e",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>This map by the Sienese printer and publisher Matteo Florimi follows an earlier perspectival plan by the Roman printmaker and publisher Altiero Gatti (act. 1588‒1596). It is nearly contemporary with the establishment of the Accademia di San Luca, which called its first official meeting in 1593.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1/annopage-2/anno-2",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1#xywh=6023,2838,626,253",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Capitoline Hill (Campidoglio) (label: Capitolinum; label: Mons capitolium)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1/annopage-2/anno-3",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1#xywh=1946,2294,375,319",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria del Popolo (label: T[emplum] S[anctae] maria populi)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1/annopage-2/anno-4",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1#xywh=6025,2687,278,149",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria in Ara Coeli (legend 8: T[emplum] Mariae in ara coeli)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1/annopage-2/anno-5",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1#xywh=6133,2633,88,53",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>The Church of San Pietro in Carcere (unlabeled) became the home of the falegnami (carpenters) in 1540. The Church of San Giuseppe dei Falegnami, built 1597-1602, stands atop the earlier structure.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1/annopage-2/anno-6",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1#xywh=5891,4256,147,232",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria dell'Orto (legend 79: T[emplum] S[anctae] Mariae de horto)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1/annopage-2/anno-7",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1#xywh=2651,4171,366,356",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Hospital of Santo Spirito (legend 5: S. Spiritus in Saxia)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1/annopage-2/anno-8",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1#xywh=4062,3614,278,88",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Piazza Navona (label: Platea Agonis)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1/annopage-2/anno-9",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1#xywh=3260,1900,567,210",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Trinità dei Monti (label: T.S. Trinitat. in montio)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1/annopage-2/anno-10",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1#xywh=6368,1304,343,331",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria Maggiore (label:T[emplum] S[anctae] Mariae Maioris)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1/annopage-2/anno-11",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1#xywh=1248,4375,529,364",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Vatican (Apostolic) Palace (label: Palatium papa)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1/annopage-2/anno-12",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1#xywh=4680,3026,208,230",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria Sopra Minerva (legend 7: T[emplum] S[anctae] Mariae Super minerua)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1/annopage-2/anno-13",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1#xywh=6056,1484,138,212",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>The Church of San Luca (unlabeled; approximate site) was razed by 1588. By this time the Università dei Pittori was centered at the Church of Santa Martina in the Roman Forum, later referred to as the Church of Santi Luca e Martina, which was the home of the Accademia di San Luca from its foundation in 1593.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1/annopage-2/anno-14",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1#xywh=3673,2644,303,167",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of San Lorenzo in Lucina (legend 30: T[emplum] S[ancti] Laurentii in lucina)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1/annopage-2/anno-15",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1#xywh=4687,3256,220,38",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Piazza della Minerva (unlabeled)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1/annopage-2/anno-16",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1#xywh=4108,3427,106,114",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of San Luigi dei Francesi (legend 31: T[emplum] S[ancti] Ludovici nati[onis] gallicanae)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1/annopage-2/anno-17",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1#xywh=3673,2812,97,64",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Piazza di San Lorenzo in Lucina (unlabeled)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1/annopage-2/anno-18",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1#xywh=3532,4122,144,229",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of San Giovanni dei Fiorentini (legend 86: T[emplum] S[ancti] Joan[nis] florentinorum)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1/annopage-2/anno-19",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1#xywh=4407,2641,240,165",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Piazza Colonna (label: Columna Antonina)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1/annopage-2/anno-20",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1#xywh=4356,3138,328,234",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria Rotonda (Pantheon) (legend 2: T[emplum] S[anctae] Mariae rotondae)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1/annopage-2/anno-21",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1#xywh=5286,2339,172,230",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria di Loreto (legend 26: T[emplum]S[anctae] Mariae de laureta)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1/annopage-2/anno-22",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1#xywh=6441,2570,174,161",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Roman Forum (Campo Vaccino) (legend 58: Forum Romanum)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1/annopage-2/anno-23",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1#xywh=4382,4016,278,184",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Farnese Palace (label: Palati[um] farnesi[orum])</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1/annopage-2/anno-24",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1#xywh=2754,2379,120,134",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Sant'Atanasio dei Greci (unlabeled)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1/annopage-2/anno-25",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1#xywh=5548,3399,379,228",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Savelli Palace (label: Theatrum Marcelli)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1/annopage-2/anno-26",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/florimiromemapjacobs/canvas/1#xywh=4792,1890,641,362",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Altemps Palace at Monte Cavallo (label: Mons Quirina[lis])</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

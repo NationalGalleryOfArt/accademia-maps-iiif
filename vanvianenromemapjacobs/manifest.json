@@ -1,0 +1,619 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            null
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Document_type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Map"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Collection of Fredrika and Paul Jacobs"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Title"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Novissima et accuratissima Romae veteris et novae tabula topographica delineatore"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Overall_dimensions"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Sheet Size: 15.4 x 15.3 cm"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Jan van Vianen; Jan Goeree; after Giovanni Battista Falda"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1694–1699"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Collection of Fredrika and Paul Jacobs"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Medium"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Etching and engraving"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Publisher"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Jan van Vianen"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language_of_document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Latin, Dutch"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Places"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Altemps Palace at Monte Cavallo; Borgo di Sant'Agata; Capitoline Hill (Campidoglio); Church of San Giovanni dei Fiorentini; Church of San Giuseppe dei Falegnami; Church of San Lorenzo ai Monti; Church of San Lorenzo in Lucina; Church of San Luca; Church of San Luigi dei Francesci; Church of San Nicola dei Lorenesi; Church of San Nicola in Carcere; Church of San Pietro in Carcere; Church of Sant'Agata dei Goti; Church of Sant'Angelo in Pescheria; Church of Sant'Atanasio dei Greci; Church of Santa Maria del Popolo; Church of Santa Maria dell'Orto; Church of Santa Maria di Loreto; Church of Santa Maria in Ara Coeli; Church of Santa Maria Maggiore; Church of Santa Maria Rotonda (Pantheon); Church of Santa Maria sopra Minerva; Church of Santa Martina; Church of Santi Luca e Martina; Crescenzi Palace; Farnese Palace; Hospital of Santo Spirito; Oratory of Sant'Orsola della Pietà; Piazza Colonna; Piazza della Minerva; Piazza Navona; Piazza Sforza Capo le Case; Porta Maggiore (new Place); Roman Forum (Campo Vaccino); Roman Seminary; Savelli Palace; Trinita dei Monti; Vatican (Apostolic) Palace; Via Frattina"
+                ]
+            }
+        }
+    ],
+    "rights": "CC BY 4.0 (Attribution 4.0 International) https://creativecommons.org/licenses/by/4.0/",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/c7379f773094dab105494d9b57f10a95/full/300,231/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 231,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1",
+            "type": "Canvas",
+            "height": 7784,
+            "width": 10125,
+            "label": {
+                "none": [
+                    "VanVianenRomeMap"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/c7379f773094dab105494d9b57f10a95/full/300,231/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 231,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/c7379f773094dab105494d9b57f10a95/full/2000,1538/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1538,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/c7379f773094dab105494d9b57f10a95",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Reduced in scale from Falda's&nbsp;<em>Nuova pianta et alzata&nbsp;</em>of 1676, adapted by Jan Goeree, and printed by Jan van Vianen, this map is titled&nbsp;<em>Novissima et accuratissima Romae veteris et novae tabula topographica&nbsp;delineatore</em>. A Dutch title appears in a separate cartouche,&nbsp;<em>Niewe en naukeurige afbeelding van oud en niew rome, getekent door Joan Baptist Falda</em>.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-2",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=4596,3929,190,144",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Capitoline Hill (Campidoglio) (legend 407: P[alatium] Maxim[us] sub Capitolio)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-3",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=4539,3520,48,48",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of San Lorenzo ai Monti (probable location)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-4",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=4314,2262,105,128",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>The Church of San Luca (approximate location) was razed by 1588. By this time the Università dei Pittori was centered at the Church of Santa Martina in the Roman Forum, later referred to as the Church of Santi Luca e Martina and which was the home of the Accademia di San Luca from its foundation in 1593.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-5",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=3166,5585,44,36",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>The Oratory of Sant'Orsola della Pietà (unlabeled, approximate location) was located in an isola directly across from the Church of San Giovanni dei Fiorentini.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-6",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=3292,2773,194,149",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Piazza Sforza Capo le Case (label: Area Barberini ad Caput Domor[um])</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-7",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=3041,3505,28,333",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Via Frattina (unlabeled)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-8",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=4132,5220,145,162",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Farnese Palace (legend 390: P[alatium] Farnes[iorum] Ser[enissimi] D[ucis] Parmens[is] R[egio] R[egolae])</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-9",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=2188,6496,134,147",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Vatican (Apostolic) Palace (legend 433: P[alatium] Pontific[ium] Vatican R[egio] Burg[i])</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-10",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=2430,3565,94,170",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Sant'Atanasio dei Greci (legend 29: Athanasi Colleg[ium] Graec[orum] R[egio] Camp[ii] Mar[tii])</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-11",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=2766,3093,143,165",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Trinita dei Monti (legend 330: Trinit[atis] de Mont[e] [Patri] Min[orum] T[ituli] P[resbyteri] R[egio] C[ampi] M[artii])</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-12",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=4443,2078,298,267",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria Maggiore (legend 157: M[ariae] Majoris Basil[ica] R[egio]Mont[is]; label: S[ancta] Maria Majoris)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-13",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=3605,4314,216,131",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria Rotonda (Pantheon) (legend 177: M[ariae] de Rotunda R[egio] Col[umnae])</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-14",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=3144,5621,150,189",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of San Giovanni dei Fiorentini (legend 103: Ioh[annis] Florent[inorum] R[egio]Pont[is])</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-15",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=4791,3768,72,64",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>The Church of San Giuseppe dei Falegnami and&nbsp;Church of San Pietro in Carcere (legend 112: Ioseph[i] vulgo Felegn[nami] S[ancti] Petr[i] R[egio] C[ampitelli]) became the home of the falegnami (carpenters) in 1540. A church dedicated to San Giuseppe was built atop the site of the Church of San Pietro in Carcere. In this map the churches are identified together.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-16",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=4259,3696,125,78",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria di Loreto (legend 156: M[ariae]de Loreto Furnar[ii] R[egio] M[ontis])</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-17",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=3696,4135,71,69",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Roman Seminary (legend 472: Seminarium Romanum R[egio] C[olumnae])</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-18",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=4721,4440,83,71",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Sant'Angelo in Pescheria (legend 272: Angioli in Pescar[ia] Colleg[iata] D[iaconia] Par[ochia] R[egio]T[?])</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-19",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=5008,4312,48,103",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of San Nicola in Carcere (legend 315: Nicol[aus] in Carc[ere]Coll[egia]ta D[iaconia] Par[ochia] R[egio] Rip[ae])</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-20",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=4506,3742,150,303",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria in Aracoeli (legend 300: Mar[iae] in Ara Coeli PP[atri] Min[orum] S[ancti] F[rancisci] T[itulus]P[resbyteri])</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-21",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=4711,3612,94,146",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>The Church of Santi Luca e Martina (legend 197: Martinae et Luc[ae] Pictor R[egio] Pin[ea]) became the home of the Università dei Pittori in 1588. This map shows the facade and dome of the new church, designed by Pietro da Cortona, a principe of the Accademia di San Luca at points during his career. Cortona began his designs in the 1630s, but the church depicted here was not completed until the late 17th century. It was the home of the Accademia di San Luca from its foundation in 1593, then known as the Church of Santa Martina.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-22",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=4841,4346,86,130",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Savelli Palace (legend 443: P[alatium] Sabellor[um] olim Theat[rum] Marc[elli])</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-23",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=3803,4172,111,119",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria sopra Minerva (legend 303: Mar[iae] Supra Minerv[am] P[atri] Dom[inicorum] T[tuli] P[resbyteri])</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-24",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=3456,4596,82,73",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of San Luigi dei Francesci (legend 132: Ludov[ici] Nat[ionis] Gall[iae] Par[ochia]R[egio] S[ancti] Eust[achii])</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-25",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=3501,3863,65,85",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Piazza Colonna</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-26",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=3389,4732,256,51",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Piazza Navona (label: Area Navona. Circus Agonalis)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-27",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=3660,4447,91,48",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Crescenzi Palace (legend 386: P[alatium] Crescentii, R[egio] S[ancti] Eust[achii])</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-28",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=3402,4796,39,85",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of San Nicola dei Lorenesi (legend 206: Nicol[aus] Vulg[o] de Lorenes[i] R[egio] Ponti)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-29",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=4393,3095,112,104",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Sant'Agata dei Goti (legend 268: Agathae Mon[achis] de Monte Virg[inis] D[iaconia] R[egio] Mont[is]); the Borgo di Sant'Agata was located in this area.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-30",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=4090,3143,211,182",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Altemps Palace at Monte Cavallo (legend 408: Palazzo Mazzarin in Quirin. R.M.)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-31",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=5701,1127,385,145",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Porta Maggiore (label: P. Major [...])</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-32",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=1751,3691,190,200",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria del Popolo (legend 305: Mar[iae] de Populo PP[atri] Er[emitarum] S[ancti] Aug[ustini] T[itulus] P[resbyteri] R[egio] C[ampo] M[artii])</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-33",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=3828,4291,119,65",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Piazza della Minerva (label: Area Minervae)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-34",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=2729,5958,198,139",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Hospital of Santo Spirito (legend 242: Spiritus in Saxia Hospit[ale] R[egio] Burg[i])</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-35",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=4875,3537,155,183",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Roman Forum (Campo Vaccino) (label: Campus Vaccinus)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-36",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=5402,5101,112,146",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria dell'Orto (legend 152: M[ariae] de Horto R[egio] Transt[iberim])</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-37",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=3048,3936,153,62",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of San Lorenzo in Lucina (legend 293: Laur[enti] in Lucin[a])</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/c4a0d448aaa0ddd243ff184900e67fad",
+  "type": "ImageService3",
+  "profile": "level0",
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8,
+        16,
+        32
+      ],
+      "width": 256
+    }
+  ],
+  "width": 15243,
+  "height": 8000,
+  "sizes": [
+    {
+      "width": 300,
+      "height": 157
+    },
+    {
+      "width": 2000,
+      "height": 1050
+    }
+  ]
+}

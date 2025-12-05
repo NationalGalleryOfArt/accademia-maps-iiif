@@ -1,0 +1,32 @@
+{
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/8f7da0fa4e30e63f2a8c6af8af37b7a2",
+  "type": "ImageService3",
+  "profile": "level0",
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8,
+        16,
+        32
+      ],
+      "width": 256
+    }
+  ],
+  "width": 10273,
+  "height": 7832,
+  "sizes": [
+    {
+      "width": 300,
+      "height": 229
+    },
+    {
+      "width": 2000,
+      "height": 1525
+    }
+  ]
+}
