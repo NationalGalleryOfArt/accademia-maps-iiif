@@ -1,0 +1,618 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Nuova pianta et alzata della città di Roma"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Map"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Biblioteca di Archeologia e Storia dell’Arte, Rome"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Overall dimensions"
+                ]
+            },
+            "value": {
+                "none": [
+                    "157 x 155 cm (sheet size: 39 x 51 cm)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Giovanni Battista Falda"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1676"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Biblioteca di Archeologia e Storia dell’Arte, Rome"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Medium"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Etching and engraving"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Italian"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Places"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Altemps Palace at Monte Cavallo; Borgo di Sant'Agata; Capitoline Hill (Campidoglio); Church of San Giovanni dei Fiorentini; Church of San Giuseppe dei Falegnami; Church of San Lorenzo ai Monti; Church of San Lorenzo in Lucina; Church of San Luca; Church of San Luigi dei Francesci; Church of San Nicola dei Lorenesi; Church of San Nicola in Carcere; Church of San Pietro in Carcere; Church of Sant'Agata dei Goti; Church of Sant'Angelo in Pescheria; Church of Sant'Atanasio dei Greci; Church of Santa Maria del Popolo; Church of Santa Maria dell'Orto; Church of Santa Maria di Loreto; Church of Santa Maria in Ara Coeli; Church of Santa Maria Maggiore; Church of Santa Maria Rotonda (Pantheon); Church of Santa Maria sopra Minerva; Church of Santa Martina; Church of Santi Luca e Martina; Crescenzi Palace; Farnese Palace; Hospital of Santo Spirito; Oratory of Sant'Orsola della Pietà; Piazza Colonna; Piazza della Minerva; Piazza di San Lorenzo in Lucina; Piazza Navona; Piazza Sforza Capo le Case; Porta Maggiore; Roman Forum (Campo Vaccino); Roman Seminary; Rome; Savelli Palace; Trinita dei Monti; Vatican (Apostolic) Palace; Via Frattina"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Summary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Comprised of twelve plates, Falda’s map is titled in full Nuova pianta et alzata della città di Roma con tutte le strade, piazze, et edificii de tempii: palazzi giardini et altre fabriche antiche et moderne come si trovano al presente nel pontifcato di N.S. Papa Innocentio XI con loro dichiarationi: nomi et indice copiosissimo. It shows the full extent of building projects and changes to the fabric of the Eternal City over the course of the century represented in maps dating from 1577 to 1676. For example, Falda’s scenographic view allows us to see the recently completed facade and exterior walls of the Church of Santi Luca e Martina, designed by Pietro da Cortona, which belongs to the Accademia di San Luca to this day."
+                ]
+            }
+        }
+    ],
+    "rights": "CC BY 4.0 (Attribution 4.0 International) https://creativecommons.org/licenses/by/4.0/",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/a74ab7d5e810d2883f83f04bc6674499/full/300,293/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 293,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1",
+            "type": "Canvas",
+            "height": 11525,
+            "width": 11811,
+            "label": {
+                "none": [
+                    "FaldaRomeMap"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/a74ab7d5e810d2883f83f04bc6674499/full/300,293/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 293,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/a74ab7d5e810d2883f83f04bc6674499/full/2000,1952/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1952,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/a74ab7d5e810d2883f83f04bc6674499",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=3765,6795,48,87",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of San Nicola dei Lorenesi (legend 206: Nicolò de' Lorenesi R[ione] Ponte)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-2",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=5969,5174,83,96",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>The Church of San Giuseppe dei Falegnami (legend 103: Giuseppe de' Falegnami et S[an] Pietro in Carcere R[ione] Campitello) became the home of the falegnami (carpenters) in 1540. A church dedicated to San Giuseppe was built atop the site of the Church of San Pietro in Carcere. On this map the churches are identified together.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-3",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=3916,5381,150,126",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Piazza Colonna (label: Piazza Colonna)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-4",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=5179,4185,354,219",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Borgo di Sant'Agata (approximate location)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-5",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=5570,4840,79,86",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of San Lorenzo ai Monti</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-6",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=3388,8025,89,63",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>The Oratory of Sant'Orsola della Pietà was located in the isola in front of San Giovanni dei Fiorentini</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-7",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=4151,6098,228,139",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria Rotonda (Pantheon) (legend 177: M[aria] della Rotonda, il Pantheon, Parroc[chi]a Colleggiata, R[ione] Colonna)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-8",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=4166,6239,84,75",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Crescenzi Palace (legend 385: P[alazzo] Crescentii Rione S[ant'] Eustachio)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-9",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=4469,5860,145,193",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria sopra Minerva (legend 303: Maria sopra Minerua, de' P[adri] Domenicani già Tempio d'Iside, T[itolo] P[resbiterale] Parroc[chia] Rione Pigna)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-10",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=5561,5238,256,218",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria in Ara Coeli (legend 300: Maria in Araceli, de' P[adri] Min[inori] Oss[ervanti] di S[an] Francesco T[itolo] P[resbiterale] Rione Campitello)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-11",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=1140,5169,141,228",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria del Popolo&nbsp;(legend 305: Maria del' Popolo, de' T[?] P[adri] Eremitani di S[ant'] Agostino della Nat[ione] Lombarda, T[itolo] P[resbiterale] Parrocchia, Rione Campo Marzo)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-12",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=5184,2978,139,166",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>The Church of San Luca once stood in this approximate location. By 1588 the church was razed, and the Università dei Pittori relocated to the Church of Santa Martina in the Roman Forum, which was the home of the Accademia di San Luca from its foundation in 1593.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-13",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=4919,7383,172,217",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Farnese Palace (legend 389: P[alatium] Farnesi[i] Ser[enissi]mo Duca di Parma Rione Regola)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-14",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=4467,6052,140,53",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Piazza della Minerva (label: Piazza della Minerua)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-15",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=4846,4325,304,219",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Altemps Palace at Monte Cavallo&nbsp;(legend 408: P[alazzo] Mazzarini à Monte Cavallo Rione Monti)&nbsp;was named for the Altemps family in the early 17th century and was expanded by later owners, including Cardinal Mazarin (1602–1661), for whom it was renamed.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-16",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=6146,4808,364,294",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Roman Forum (Campo Vaccino) (label:&nbsp;label: Campo Vaccino)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-17",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=6979,7280,158,143",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria dell'Orto (legend 152: M[aria] dell'Horto Rione Trasteuere)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-18",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=7834,1156,232,187",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Porta Maggiore (label: Porta Maggiore Neuia o Labicana)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-19",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=2754,8588,294,142",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Hospital of Santo Spirito (legend 243: Spirito in Sassia Hosped[ali] Commenda de' Caualieri Regolari Parrocchia Rione Borgo; label: S[anto] Spirito)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-20",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=3202,5523,64,121",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Piazza di San Lorenzo in Lucina (label: Piazza di S[an] Lorenzo in Lucina)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-21",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=3405,8088,137,229",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of San Giovanni dei Fiorentini (legend 94: Gio[vanni] De Fiorentini Parroc[chia] R[ione] Ponte)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-22",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=5387,4228,106,140",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Sant'Agata dei Goti (legend 268: Agata Monaci di Monte Vergine D[iaconia] Rione Monti)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-23",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=2745,4214,207,201",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Trinità dei Monti (legend 329: Trinità de' Monti de' PP[adri] Minimi Francesi T[itolo] P[resbiterale] Rione Campo Marzo)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-24",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=5848,5456,110,99",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Capitoline Hill (Campidoglio) (label: Campidoglio)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-25",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=5478,2701,446,292",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria Maggiore (legend 157: M[aria] Maggiore Basil[ic]a Colleggiata R[ione] Monti)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-26",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=5882,6231,115,96",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Sant'Angelo in Pescheria (legend 273: Angiolo in Pescaria Colleggiata D[iaconia] Parrocchia, Rione S[ant'] Angiolo)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-27",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=6043,6091,190,184",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Savelli Palace (label: Monte Sauelli)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-28",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=6341,6048,61,116",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of San Nicola in Carcere (legend 315: Nicolò in Carcere, Colleggiata D[iaconia] Parroc[chia] R[ione] Ripa)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-29",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=1887,9350,267,274",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Vatican (Apostolic) Palace (legend 436: P. Pontificio Vaticano Rione Borgo)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-30",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=4222,5761,133,99",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Roman Seminary (legend 472: Seminario Romano, Rione Colonna)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-31",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=3582,3749,181,182",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Piazza Sforza Capo le Case (label: Piazza Barberini à Capo le Case)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-32",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=3204,4686,61,683",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Via Frattina (label: Strada Frattina)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-33",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=3906,6418,60,107",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of San Luigi dei Francesci (legend 132: Luigi de' Francesi, Par[rocchia] R[ione] S[ant’] Eust[achio])</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-34",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=3782,6688,539,102",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Piazza Navona (label: Piazza Nauona giá il Circo Agonale)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-35",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=5207,5096,142,145",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria di Loreto (legend 156: M[aria] di Loreto de' Fornari, alla Colona Traiana Rione Monti)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-36",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=5894,4981,126,219",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>The Church of Santi Luca e Martina (legend 197: Martina e Luca de Pittori R[ione] Pigna) was home to the Università dei Pittori by 1588 and was the home of the Accademia di San Luca from its foundation in 1593. This map shows the facade and dome of the new church, designed by Pietro da Cortona, a principe of the Accademia di San Luca at points during his career. Cortona began his designs in the 1630s, but the church depicted here was not completed until the late 17th century.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-37",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=3229,5439,189,88",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of San Lorenzo in Lucina (legend 293: Lorenzo in Lucina, de' Chierici Regolari Minori all' Horologio d'Augusto T[itolo] P[resbiterale] Parrocch[ia] Rione Campo Marzo)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-38",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=2179,4969,129,181",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Sant'Atanasio dei Greci (legend 29:legend 29: Athanasio Colleg[gi]o Greco R[ione] Campo marzio)</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
