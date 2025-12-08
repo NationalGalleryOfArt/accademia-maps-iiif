@@ -4,14 +4,14 @@
     "type": "Manifest",
     "label": {
         "none": [
-            null
+            "Disegno nuovo di Roma moderna"
         ]
     },
     "metadata": [
         {
             "label": {
                 "none": [
-                    "Document_type"
+                    "Document type"
                 ]
             },
             "value": {
@@ -35,19 +35,7 @@
         {
             "label": {
                 "none": [
-                    "Title"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Disegno nuovo di Roma moderna"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Overall_dimensions"
+                    "Overall dimensions"
                 ]
             },
             "value": {
@@ -107,7 +95,7 @@
         {
             "label": {
                 "none": [
-                    "Language_of_document"
+                    "Language of document"
                 ]
             },
             "value": {
@@ -125,6 +113,18 @@
             "value": {
                 "none": [
                     "Altemps Palace at Monte Cavallo; Borgo di Sant'Agata; Capitoline Hill (Campidoglio); Church of San Giovanni dei Fiorentini; Church of San Giuseppe dei Falegnami; Church of San Lorenzo ai Monti; Church of San Lorenzo in Lucina; Church of San Luca; Church of San Luigi dei Francesci; Church of San Nicola dei Lorenesi; Church of San Nicola in Carcere; Church of San Pietro in Carcere; Church of Sant'Agata dei Goti; Church of Sant'Angelo in Pescheria; Church of Sant'Atanasio dei Greci; Church of Santa Maria del Popolo; Church of Santa Maria dell'Orto; Church of Santa Maria di Loreto; Church of Santa Maria in Ara Coeli; Church of Santa Maria Maggiore; Church of Santa Maria Rotonda (Pantheon); Church of Santa Maria sopra Minerva; Church of Santa Martina; Church of Santi Luca e Martina; Crescenzi Palace; Farnese Palace; Hospital of Santo Spirito; Oratory of Sant'Orsola della Pietà; Piazza Colonna; Piazza della Minerva; Piazza di San Lorenzo in Lucina; Piazza Navona; Piazza Sforza Capo le Case; Porta Maggiore; Roman Forum (Campo Vaccino); Roman Seminary; Rome; Savelli Palace; Trinita dei Monti; Vatican (Apostolic) Palace; Via Frattina"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Summary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "The forty-eight plates of the Disegno nuovo di Roma moderna con un breve compendio delle sue antichità by Giovanni Maggi and Paul Maupin were published in 1625, two years after Maffeo Barberini was elected pope, taking the name Urban VIII. This digital reconstruction of the map’s original state gathers all 48 plates, never previously assembled as one sheet."
                 ]
             }
         }
@@ -195,18 +195,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-1",
                             "type": "Annotation",
-                            "motivation": "commenting",
-                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>The forty-eight plates of the&nbsp;<em>Disegno nuovo di Roma moderna con un breve compendio delle sue antichità </em>by Giovanni Maggi and Paul Maupin were published in 1625, two years after Maffeo Barberini was elected pope, taking the name Urban VIII. This digital reconstruction of the map’s original state gathers all 48 plates, never previously assembled as one sheet.</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-2",
-                            "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1#xywh=4464,2702,290,267",
                             "body": {
                                 "type": "TextualBody",
@@ -215,9 +204,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-3",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-2",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1#xywh=4465,2823,94,147",
                             "body": {
                                 "type": "TextualBody",
@@ -226,9 +215,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-4",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-3",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1#xywh=5446,2729,183,32",
                             "body": {
                                 "type": "TextualBody",
@@ -237,9 +226,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-5",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-4",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1#xywh=8892,2383,26,88",
                             "body": {
                                 "type": "TextualBody",
@@ -248,9 +237,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-6",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-5",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1#xywh=8467,2131,107,103",
                             "body": {
                                 "type": "TextualBody",
@@ -259,9 +248,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-7",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-6",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1#xywh=8748,2513,80,79",
                             "body": {
                                 "type": "TextualBody",
@@ -270,9 +259,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-8",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-7",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1#xywh=6258,3682,204,75",
                             "body": {
                                 "type": "TextualBody",
@@ -281,9 +270,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-9",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-8",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1#xywh=4971,5612,176,132",
                             "body": {
                                 "type": "TextualBody",
@@ -292,9 +281,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-10",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-9",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1#xywh=6181,3133,115,124",
                             "body": {
                                 "type": "TextualBody",
@@ -303,9 +292,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-11",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-10",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1#xywh=3431,1552,440,279",
                             "body": {
                                 "type": "TextualBody",
@@ -314,9 +303,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-12",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-11",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1#xywh=4472,2541,63,142",
                             "body": {
                                 "type": "TextualBody",
@@ -325,9 +314,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-13",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-12",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1#xywh=2579,2125,194,276",
                             "body": {
                                 "type": "TextualBody",
@@ -336,9 +325,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-14",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-13",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1#xywh=553,2078,305,368",
                             "body": {
                                 "type": "TextualBody",
@@ -347,9 +336,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-15",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-14",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1#xywh=3603,5906,261,315",
                             "body": {
                                 "type": "TextualBody",
@@ -358,9 +347,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-16",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-15",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1#xywh=5604,4234,64,131",
                             "body": {
                                 "type": "TextualBody",
@@ -369,9 +358,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-17",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-16",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1#xywh=9748,3118,123,184",
                             "body": {
                                 "type": "TextualBody",
@@ -380,9 +369,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-18",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-17",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1#xywh=5953,3813,156,189",
                             "body": {
                                 "type": "TextualBody",
@@ -391,9 +380,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-19",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-18",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1#xywh=8455,2508,251,204",
                             "body": {
                                 "type": "TextualBody",
@@ -402,9 +391,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-20",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-19",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1#xywh=5742,4162,365,107",
                             "body": {
                                 "type": "TextualBody",
@@ -413,9 +402,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-21",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-20",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1#xywh=7636,5320,328,286",
                             "body": {
                                 "type": "TextualBody",
@@ -424,9 +413,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-22",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-21",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1#xywh=4930,5807,311,277",
                             "body": {
                                 "type": "TextualBody",
@@ -435,9 +424,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-23",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-22",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1#xywh=8634,2693,262,170",
                             "body": {
                                 "type": "TextualBody",
@@ -446,9 +435,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-24",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-23",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1#xywh=6477,3514,190,35",
                             "body": {
                                 "type": "TextualBody",
@@ -457,9 +446,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-25",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-24",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1#xywh=6476,3323,204,192",
                             "body": {
                                 "type": "TextualBody",
@@ -468,9 +457,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-26",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-25",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1#xywh=827,6667,210,110",
                             "body": {
                                 "type": "TextualBody",
@@ -479,9 +468,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-27",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-26",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1#xywh=6718,1568,470,81",
                             "body": {
                                 "type": "TextualBody",
@@ -490,9 +479,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-28",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-27",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1#xywh=7318,1349,215,128",
                             "body": {
                                 "type": "TextualBody",
@@ -501,9 +490,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-29",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-28",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1#xywh=7539,1277,78,208",
                             "body": {
                                 "type": "TextualBody",
@@ -512,9 +501,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-30",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-29",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1#xywh=6825,1000,197,159",
                             "body": {
                                 "type": "TextualBody",
@@ -523,9 +512,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-31",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-30",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1#xywh=7056,824,350,274",
                             "body": {
                                 "type": "TextualBody",
@@ -534,9 +523,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-32",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-31",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1#xywh=8442,178,155,124",
                             "body": {
                                 "type": "TextualBody",
@@ -545,9 +534,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-33",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-32",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1#xywh=5153,1434,240,126",
                             "body": {
                                 "type": "TextualBody",
@@ -556,9 +545,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-34",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-33",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1#xywh=7740,2362,244,172",
                             "body": {
                                 "type": "TextualBody",
@@ -567,9 +556,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-35",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-34",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1#xywh=9142,3353,277,178",
                             "body": {
                                 "type": "TextualBody",
@@ -578,9 +567,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-36",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-35",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1#xywh=8688,2330,116,75",
                             "body": {
                                 "type": "TextualBody",
@@ -589,9 +578,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-37",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-36",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1#xywh=8889,3416,196,170",
                             "body": {
                                 "type": "TextualBody",
@@ -600,9 +589,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-38",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-37",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1#xywh=9061,2141,318,244",
                             "body": {
                                 "type": "TextualBody",
@@ -611,9 +600,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-39",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-38",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1#xywh=11600,4318,515,262",
                             "body": {
                                 "type": "TextualBody",
@@ -622,9 +611,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-40",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1/annopage-2/anno-39",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/canvas/1#xywh=6209,3489,265,192",
                             "body": {
                                 "type": "TextualBody",

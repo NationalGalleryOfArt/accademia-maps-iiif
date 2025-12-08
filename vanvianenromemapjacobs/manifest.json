@@ -4,14 +4,14 @@
     "type": "Manifest",
     "label": {
         "none": [
-            null
+            "Novissima et accuratissima Romae veteris et novae"
         ]
     },
     "metadata": [
         {
             "label": {
                 "none": [
-                    "Document_type"
+                    "Document type"
                 ]
             },
             "value": {
@@ -35,19 +35,7 @@
         {
             "label": {
                 "none": [
-                    "Title"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Novissima et accuratissima Romae veteris et novae tabula topographica delineatore"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Overall_dimensions"
+                    "Overall dimensions"
                 ]
             },
             "value": {
@@ -119,7 +107,7 @@
         {
             "label": {
                 "none": [
-                    "Language_of_document"
+                    "Language of document"
                 ]
             },
             "value": {
@@ -137,6 +125,18 @@
             "value": {
                 "none": [
                     "Altemps Palace at Monte Cavallo; Borgo di Sant'Agata; Capitoline Hill (Campidoglio); Church of San Giovanni dei Fiorentini; Church of San Giuseppe dei Falegnami; Church of San Lorenzo ai Monti; Church of San Lorenzo in Lucina; Church of San Luca; Church of San Luigi dei Francesci; Church of San Nicola dei Lorenesi; Church of San Nicola in Carcere; Church of San Pietro in Carcere; Church of Sant'Agata dei Goti; Church of Sant'Angelo in Pescheria; Church of Sant'Atanasio dei Greci; Church of Santa Maria del Popolo; Church of Santa Maria dell'Orto; Church of Santa Maria di Loreto; Church of Santa Maria in Ara Coeli; Church of Santa Maria Maggiore; Church of Santa Maria Rotonda (Pantheon); Church of Santa Maria sopra Minerva; Church of Santa Martina; Church of Santi Luca e Martina; Crescenzi Palace; Farnese Palace; Hospital of Santo Spirito; Oratory of Sant'Orsola della Pietà; Piazza Colonna; Piazza della Minerva; Piazza Navona; Piazza Sforza Capo le Case; Porta Maggiore (new Place); Roman Forum (Campo Vaccino); Roman Seminary; Savelli Palace; Trinita dei Monti; Vatican (Apostolic) Palace; Via Frattina"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Summary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Reduced in scale from Falda's Nuova pianta et alzata of 1676, adapted by Jan Goeree, and printed by Jan van Vianen, this map is titled Novissima et accuratissima Romae veteris et novae tabula topographica delineatore. A Dutch title appears in a separate cartouche, Niewe en naukeurige afbeelding van oud en niew rome, getekent door Joan Baptist Falda."
                 ]
             }
         }
@@ -207,18 +207,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-1",
                             "type": "Annotation",
-                            "motivation": "commenting",
-                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>Reduced in scale from Falda's&nbsp;<em>Nuova pianta et alzata&nbsp;</em>of 1676, adapted by Jan Goeree, and printed by Jan van Vianen, this map is titled&nbsp;<em>Novissima et accuratissima Romae veteris et novae tabula topographica&nbsp;delineatore</em>. A Dutch title appears in a separate cartouche,&nbsp;<em>Niewe en naukeurige afbeelding van oud en niew rome, getekent door Joan Baptist Falda</em>.</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-2",
-                            "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=4596,3929,190,144",
                             "body": {
                                 "type": "TextualBody",
@@ -227,9 +216,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-3",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-2",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=4539,3520,48,48",
                             "body": {
                                 "type": "TextualBody",
@@ -238,9 +227,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-4",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-3",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=4314,2262,105,128",
                             "body": {
                                 "type": "TextualBody",
@@ -249,9 +238,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-5",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-4",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=3166,5585,44,36",
                             "body": {
                                 "type": "TextualBody",
@@ -260,9 +249,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-6",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-5",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=3292,2773,194,149",
                             "body": {
                                 "type": "TextualBody",
@@ -271,9 +260,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-7",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-6",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=3041,3505,28,333",
                             "body": {
                                 "type": "TextualBody",
@@ -282,9 +271,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-8",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-7",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=4132,5220,145,162",
                             "body": {
                                 "type": "TextualBody",
@@ -293,9 +282,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-9",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-8",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=2188,6496,134,147",
                             "body": {
                                 "type": "TextualBody",
@@ -304,9 +293,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-10",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-9",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=2430,3565,94,170",
                             "body": {
                                 "type": "TextualBody",
@@ -315,9 +304,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-11",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-10",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=2766,3093,143,165",
                             "body": {
                                 "type": "TextualBody",
@@ -326,9 +315,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-12",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-11",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=4443,2078,298,267",
                             "body": {
                                 "type": "TextualBody",
@@ -337,9 +326,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-13",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-12",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=3605,4314,216,131",
                             "body": {
                                 "type": "TextualBody",
@@ -348,9 +337,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-14",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-13",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=3144,5621,150,189",
                             "body": {
                                 "type": "TextualBody",
@@ -359,9 +348,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-15",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-14",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=4791,3768,72,64",
                             "body": {
                                 "type": "TextualBody",
@@ -370,9 +359,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-16",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-15",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=4259,3696,125,78",
                             "body": {
                                 "type": "TextualBody",
@@ -381,9 +370,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-17",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-16",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=3696,4135,71,69",
                             "body": {
                                 "type": "TextualBody",
@@ -392,9 +381,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-18",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-17",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=4721,4440,83,71",
                             "body": {
                                 "type": "TextualBody",
@@ -403,9 +392,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-19",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-18",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=5008,4312,48,103",
                             "body": {
                                 "type": "TextualBody",
@@ -414,9 +403,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-20",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-19",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=4506,3742,150,303",
                             "body": {
                                 "type": "TextualBody",
@@ -425,9 +414,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-21",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-20",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=4711,3612,94,146",
                             "body": {
                                 "type": "TextualBody",
@@ -436,9 +425,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-22",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-21",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=4841,4346,86,130",
                             "body": {
                                 "type": "TextualBody",
@@ -447,9 +436,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-23",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-22",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=3803,4172,111,119",
                             "body": {
                                 "type": "TextualBody",
@@ -458,9 +447,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-24",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-23",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=3456,4596,82,73",
                             "body": {
                                 "type": "TextualBody",
@@ -469,9 +458,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-25",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-24",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=3501,3863,65,85",
                             "body": {
                                 "type": "TextualBody",
@@ -480,9 +469,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-26",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-25",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=3389,4732,256,51",
                             "body": {
                                 "type": "TextualBody",
@@ -491,9 +480,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-27",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-26",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=3660,4447,91,48",
                             "body": {
                                 "type": "TextualBody",
@@ -502,9 +491,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-28",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-27",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=3402,4796,39,85",
                             "body": {
                                 "type": "TextualBody",
@@ -513,9 +502,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-29",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-28",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=4393,3095,112,104",
                             "body": {
                                 "type": "TextualBody",
@@ -524,9 +513,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-30",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-29",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=4090,3143,211,182",
                             "body": {
                                 "type": "TextualBody",
@@ -535,9 +524,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-31",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-30",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=5701,1127,385,145",
                             "body": {
                                 "type": "TextualBody",
@@ -546,9 +535,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-32",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-31",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=1751,3691,190,200",
                             "body": {
                                 "type": "TextualBody",
@@ -557,9 +546,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-33",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-32",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=3828,4291,119,65",
                             "body": {
                                 "type": "TextualBody",
@@ -568,9 +557,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-34",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-33",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=2729,5958,198,139",
                             "body": {
                                 "type": "TextualBody",
@@ -579,9 +568,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-35",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-34",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=4875,3537,155,183",
                             "body": {
                                 "type": "TextualBody",
@@ -590,9 +579,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-36",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-35",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=5402,5101,112,146",
                             "body": {
                                 "type": "TextualBody",
@@ -601,9 +590,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-37",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1/annopage-2/anno-36",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/canvas/1#xywh=3048,3936,153,62",
                             "body": {
                                 "type": "TextualBody",

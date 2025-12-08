@@ -4,14 +4,14 @@
     "type": "Manifest",
     "label": {
         "none": [
-            null
+            "Der Statt Rom, from Cosmographei"
         ]
     },
     "metadata": [
         {
             "label": {
                 "none": [
-                    "Document_type"
+                    "Document type"
                 ]
             },
             "value": {
@@ -35,19 +35,7 @@
         {
             "label": {
                 "none": [
-                    "Title"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Der Statt Rom, from Cosmographei"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Overall_dimensions"
+                    "Overall dimensions"
                 ]
             },
             "value": {
@@ -119,7 +107,7 @@
         {
             "label": {
                 "none": [
-                    "Language_of_document"
+                    "Language of document"
                 ]
             },
             "value": {
@@ -137,6 +125,18 @@
             "value": {
                 "none": [
                     "Altemps Palace at Monte Cavallo; Capitoline Hill (Campidoglio); Church of Santa Maria del Popolo; Church of Santa Maria Rotonda (Pantheon); Hospital of Santo Spirito; Vatican (Apostolic) Palace"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Summary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Titled Der Statt Rom aller Welt bekannt contrafehtung nach jetziger gelegenheit, this double-page map comes from Münster’s Cosmographei, oder beschreibung aller länder, herschafften, fürnemsten stetten, geschichten, gebreüche, published in Basel by Heinrich Petri. The 1550 German edition of Cosmographia, published in Latin in 1544, contains 14 double-page woodcut maps, including this hand-colored view of Rome. This map predates the establishment of the Accademia di San Luca, when painters belonged to the Università dei Pittori, at that time centered at the confraternal church of San Luca, located near the basilica of Santa Maria Maggiore."
                 ]
             }
         }
@@ -207,18 +207,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/munsterromemapjacobs/canvas/1/annopage-2/anno-1",
                             "type": "Annotation",
-                            "motivation": "commenting",
-                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/munsterromemapjacobs/canvas/1",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>Titled <em>Der Statt Rom aller Welt bekannt contrafehtung nach jetziger gelegenheit</em>, this double-page map comes from Münster’s <em>Cosmographei, oder beschreibung aller länder, herschafften, fürnemsten stetten, geschichten, gebreüche, </em>published in Basel by Heinrich Petri. The 1550 German edition of <em>Cosmographia, </em>published in Latin in 1544, contains 14 double-page woodcut maps, including this hand-colored view of Rome. This map predates the establishment of the Accademia di San Luca, when painters belonged to the Università dei Pittori, at that time centered at the confraternal church of San Luca, located near the basilica of Santa Maria Maggiore.</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/munsterromemapjacobs/canvas/1/annopage-2/anno-2",
-                            "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/munsterromemapjacobs/canvas/1#xywh=6874,1513,758,1022",
                             "body": {
                                 "type": "TextualBody",
@@ -227,9 +216,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/munsterromemapjacobs/canvas/1/annopage-2/anno-3",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/munsterromemapjacobs/canvas/1/annopage-2/anno-2",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/munsterromemapjacobs/canvas/1#xywh=2777,3505,502,214",
                             "body": {
                                 "type": "TextualBody",
@@ -238,9 +227,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/munsterromemapjacobs/canvas/1/annopage-2/anno-4",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/munsterromemapjacobs/canvas/1/annopage-2/anno-3",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/munsterromemapjacobs/canvas/1#xywh=4025,2899,522,393",
                             "body": {
                                 "type": "TextualBody",
@@ -249,9 +238,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/munsterromemapjacobs/canvas/1/annopage-2/anno-5",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/munsterromemapjacobs/canvas/1/annopage-2/anno-4",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/munsterromemapjacobs/canvas/1#xywh=7033,4522,504,797",
                             "body": {
                                 "type": "TextualBody",
@@ -260,9 +249,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/munsterromemapjacobs/canvas/1/annopage-2/anno-6",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/munsterromemapjacobs/canvas/1/annopage-2/anno-5",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/munsterromemapjacobs/canvas/1#xywh=5131,2966,641,672",
                             "body": {
                                 "type": "TextualBody",
@@ -271,9 +260,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/munsterromemapjacobs/canvas/1/annopage-2/anno-7",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/munsterromemapjacobs/canvas/1/annopage-2/anno-6",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/munsterromemapjacobs/canvas/1#xywh=6547,2359,466,526",
                             "body": {
                                 "type": "TextualBody",
@@ -282,9 +271,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/munsterromemapjacobs/canvas/1/annopage-2/anno-8",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/munsterromemapjacobs/canvas/1/annopage-2/anno-7",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/munsterromemapjacobs/canvas/1#xywh=4388,4183,612,465",
                             "body": {
                                 "type": "TextualBody",

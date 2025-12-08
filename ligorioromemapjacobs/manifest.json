@@ -4,14 +4,14 @@
     "type": "Manifest",
     "label": {
         "none": [
-            null
+            "Urbis Romae, totius olim orbis domitricis"
         ]
     },
     "metadata": [
         {
             "label": {
                 "none": [
-                    "Document_type"
+                    "Document type"
                 ]
             },
             "value": {
@@ -35,19 +35,7 @@
         {
             "label": {
                 "none": [
-                    "Title"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Urbis Romae, totius olim orbis domitricis, situs..."
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Overall_dimensions"
+                    "Overall dimensions"
                 ]
             },
             "value": {
@@ -119,7 +107,7 @@
         {
             "label": {
                 "none": [
-                    "Language_of_document"
+                    "Language of document"
                 ]
             },
             "value": {
@@ -137,6 +125,18 @@
             "value": {
                 "none": [
                     "Altemps Palace at Monte Cavallo; Capitoline Hill (Campidoglio); Church of San Luca; Church of San Pietro in Carcere; Church of Sant'Angelo in Pescheria; Church of Santa Maria del Popolo; Church of Santa Maria dell'Orto; Church of Santa Maria in Ara Coeli; Church of Santa Maria Maggiore; Church of Santa Maria Rotonda (Pantheon); Church of Santa Martina; Hospital of Santo Spirito; Piazza Colonna; Piazza della Minerva; Piazza Navona; Roman Forum (Campo Vaccino); Savelli Palace; Trinita dei Monti; Vatican (Apostolic) Palace"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Summary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Titled in full Urbis Romae, totius olim orbis domitricis, situs: cum adhuc extantibus, sacrosanctae vetustatis monumentis, this map bears the inscription PIRRHO LIGORIO NEAP. INVENTOR. Pirro Ligorio's topographical map was originally published in 1552 and was the first of its kind, inspiring later plans of Rome like those by Étienne Dupérac. This map was among the prints published in the Speculum Romanae Magnificentiae by Antonio Lafreri in the 1570s. This example represents an early state of Ligorio's map of the ancient city of Rome. "
                 ]
             }
         }
@@ -207,18 +207,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1/annopage-2/anno-1",
                             "type": "Annotation",
-                            "motivation": "commenting",
-                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>Titled in full&nbsp;<em>Urbis Romae, totius olim orbis domitricis, situs: cum adhuc extantibus, sacrosanctae vetustatis monumentis</em>, this map bears the inscription&nbsp;<em>PIRRHO LIGORIO NEAP. INVENTOR</em>. Pirro Ligorio's topographical map was originally published in 1552 and was the first of its kind, inspiring later plans of Rome like those by Étienne Dupérac. This map was among the prints published in the&nbsp;<em>Speculum Romanae Magnificentiae&nbsp;</em>by Antonio Lafreri in the 1570s. This example represents an early state of Ligorio's map of the ancient city of Rome.&nbsp;</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1/annopage-2/anno-2",
-                            "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1#xywh=3150,3187,349,126",
                             "body": {
                                 "type": "TextualBody",
@@ -227,9 +216,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1/annopage-2/anno-3",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1/annopage-2/anno-2",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1#xywh=3545,4263,506,152",
                             "body": {
                                 "type": "TextualBody",
@@ -238,9 +227,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1/annopage-2/anno-4",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1/annopage-2/anno-3",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1#xywh=3544,3971,464,282",
                             "body": {
                                 "type": "TextualBody",
@@ -249,9 +238,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1/annopage-2/anno-5",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1/annopage-2/anno-4",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1#xywh=3932,3787,189,123",
                             "body": {
                                 "type": "TextualBody",
@@ -260,9 +249,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1/annopage-2/anno-6",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1/annopage-2/anno-5",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1#xywh=4039,3912,110,103",
                             "body": {
                                 "type": "TextualBody",
@@ -271,9 +260,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1/annopage-2/anno-7",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1/annopage-2/anno-6",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1#xywh=4304,3951,213,305",
                             "body": {
                                 "type": "TextualBody",
@@ -282,9 +271,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1/annopage-2/anno-8",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1/annopage-2/anno-7",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1#xywh=3777,2147,664,283",
                             "body": {
                                 "type": "TextualBody",
@@ -293,9 +282,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1/annopage-2/anno-9",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1/annopage-2/anno-8",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1#xywh=3816,2430,149,94",
                             "body": {
                                 "type": "TextualBody",
@@ -304,9 +293,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1/annopage-2/anno-10",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1/annopage-2/anno-9",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1#xywh=578,4068,491,290",
                             "body": {
                                 "type": "TextualBody",
@@ -315,9 +304,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1/annopage-2/anno-11",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1/annopage-2/anno-10",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1#xywh=541,6432,821,168",
                             "body": {
                                 "type": "TextualBody",
@@ -326,9 +315,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1/annopage-2/anno-12",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1/annopage-2/anno-11",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1#xywh=1839,5908,328,374",
                             "body": {
                                 "type": "TextualBody",
@@ -337,9 +326,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1/annopage-2/anno-13",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1/annopage-2/anno-12",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1#xywh=1560,3314,518,241",
                             "body": {
                                 "type": "TextualBody",
@@ -348,9 +337,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1/annopage-2/anno-14",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1/annopage-2/anno-13",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1#xywh=2510,4797,559,193",
                             "body": {
                                 "type": "TextualBody",
@@ -359,9 +348,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1/annopage-2/anno-15",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1/annopage-2/anno-14",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1#xywh=2832,4418,224,65",
                             "body": {
                                 "type": "TextualBody",
@@ -370,9 +359,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1/annopage-2/anno-16",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1/annopage-2/anno-15",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1#xywh=2502,4482,425,233",
                             "body": {
                                 "type": "TextualBody",
@@ -381,9 +370,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1/annopage-2/anno-17",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1/annopage-2/anno-16",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1#xywh=2153,3961,283,392",
                             "body": {
                                 "type": "TextualBody",
@@ -392,9 +381,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1/annopage-2/anno-18",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1/annopage-2/anno-17",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1#xywh=3647,4787,433,270",
                             "body": {
                                 "type": "TextualBody",
@@ -403,9 +392,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1/annopage-2/anno-19",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1/annopage-2/anno-18",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1#xywh=3378,4890,268,200",
                             "body": {
                                 "type": "TextualBody",
@@ -414,9 +403,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1/annopage-2/anno-20",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1/annopage-2/anno-19",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/ligorioromemapjacobs/canvas/1#xywh=4647,5891,196,205",
                             "body": {
                                 "type": "TextualBody",

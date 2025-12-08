@@ -4,14 +4,14 @@
     "type": "Manifest",
     "label": {
         "none": [
-            null
+            "Nuova pianta et alzata della città di Roma"
         ]
     },
     "metadata": [
         {
             "label": {
                 "none": [
-                    "Document_type"
+                    "Document type"
                 ]
             },
             "value": {
@@ -35,19 +35,7 @@
         {
             "label": {
                 "none": [
-                    "Title"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Nuova pianta et alzata della città di Roma"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Overall_dimensions"
+                    "Overall dimensions"
                 ]
             },
             "value": {
@@ -107,7 +95,7 @@
         {
             "label": {
                 "none": [
-                    "Language_of_document"
+                    "Language of document"
                 ]
             },
             "value": {
@@ -125,6 +113,18 @@
             "value": {
                 "none": [
                     "Altemps Palace at Monte Cavallo; Borgo di Sant'Agata; Capitoline Hill (Campidoglio); Church of San Giovanni dei Fiorentini; Church of San Giuseppe dei Falegnami; Church of San Lorenzo ai Monti; Church of San Lorenzo in Lucina; Church of San Luca; Church of San Luigi dei Francesci; Church of San Nicola dei Lorenesi; Church of San Nicola in Carcere; Church of San Pietro in Carcere; Church of Sant'Agata dei Goti; Church of Sant'Angelo in Pescheria; Church of Sant'Atanasio dei Greci; Church of Santa Maria del Popolo; Church of Santa Maria dell'Orto; Church of Santa Maria di Loreto; Church of Santa Maria in Ara Coeli; Church of Santa Maria Maggiore; Church of Santa Maria Rotonda (Pantheon); Church of Santa Maria sopra Minerva; Church of Santa Martina; Church of Santi Luca e Martina; Crescenzi Palace; Farnese Palace; Hospital of Santo Spirito; Oratory of Sant'Orsola della Pietà; Piazza Colonna; Piazza della Minerva; Piazza di San Lorenzo in Lucina; Piazza Navona; Piazza Sforza Capo le Case; Porta Maggiore; Roman Forum (Campo Vaccino); Roman Seminary; Rome; Savelli Palace; Trinita dei Monti; Vatican (Apostolic) Palace; Via Frattina"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Summary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Comprised of twelve plates, Falda’s map is titled in full Nuova pianta et alzata della città di Roma con tutte le strade, piazze, et edificii de tempii: palazzi giardini et altre fabriche antiche et moderne come si trovano al presente nel pontifcato di N.S. Papa Innocentio XI con loro dichiarationi: nomi et indice copiosissimo. It shows the full extent of building projects and changes to the fabric of the Eternal City over the course of the century represented in maps dating from 1577 to 1676. For example, Falda’s scenographic view allows us to see the recently completed facade and exterior walls of the Church of Santi Luca e Martina, designed by Pietro da Cortona, which belongs to the Accademia di San Luca to this day."
                 ]
             }
         }
@@ -195,18 +195,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-1",
                             "type": "Annotation",
-                            "motivation": "commenting",
-                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>Comprised of twelve plates, Falda’s map is titled in full&nbsp;<em>Nuova pianta et alzata della città di Roma con tutte le strade, piazze, et edificii de tempii: palazzi giardini et altre fabriche antiche et moderne come si trovano al presente nel pontifcato di N.S. Papa Innocentio XI con loro dichiarationi: nomi et indice copiosissimo.&nbsp;</em>It shows the full extent of building projects and changes to the fabric of the Eternal City over the course of the century represented in maps dating from 1577 to 1676. For example, Falda’s scenographic view allows us to see the recently completed facade and exterior walls of the Church of Santi Luca e Martina, designed by Pietro da Cortona, which belongs to the Accademia di San Luca to this day.</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-2",
-                            "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=3765,6795,48,87",
                             "body": {
                                 "type": "TextualBody",
@@ -215,9 +204,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-3",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-2",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=5969,5174,83,96",
                             "body": {
                                 "type": "TextualBody",
@@ -226,9 +215,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-4",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-3",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=3916,5381,150,126",
                             "body": {
                                 "type": "TextualBody",
@@ -237,9 +226,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-5",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-4",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=5179,4185,354,219",
                             "body": {
                                 "type": "TextualBody",
@@ -248,9 +237,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-6",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-5",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=5570,4840,79,86",
                             "body": {
                                 "type": "TextualBody",
@@ -259,9 +248,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-7",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-6",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=3388,8025,89,63",
                             "body": {
                                 "type": "TextualBody",
@@ -270,9 +259,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-8",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-7",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=4151,6098,228,139",
                             "body": {
                                 "type": "TextualBody",
@@ -281,9 +270,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-9",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-8",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=4166,6239,84,75",
                             "body": {
                                 "type": "TextualBody",
@@ -292,9 +281,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-10",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-9",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=4469,5860,145,193",
                             "body": {
                                 "type": "TextualBody",
@@ -303,9 +292,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-11",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-10",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=5561,5238,256,218",
                             "body": {
                                 "type": "TextualBody",
@@ -314,9 +303,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-12",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-11",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=1140,5169,141,228",
                             "body": {
                                 "type": "TextualBody",
@@ -325,9 +314,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-13",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-12",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=5184,2978,139,166",
                             "body": {
                                 "type": "TextualBody",
@@ -336,9 +325,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-14",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-13",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=4919,7383,172,217",
                             "body": {
                                 "type": "TextualBody",
@@ -347,9 +336,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-15",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-14",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=4467,6052,140,53",
                             "body": {
                                 "type": "TextualBody",
@@ -358,9 +347,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-16",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-15",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=4846,4325,304,219",
                             "body": {
                                 "type": "TextualBody",
@@ -369,9 +358,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-17",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-16",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=6146,4808,364,294",
                             "body": {
                                 "type": "TextualBody",
@@ -380,9 +369,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-18",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-17",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=6979,7280,158,143",
                             "body": {
                                 "type": "TextualBody",
@@ -391,9 +380,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-19",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-18",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=7834,1156,232,187",
                             "body": {
                                 "type": "TextualBody",
@@ -402,9 +391,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-20",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-19",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=2754,8588,294,142",
                             "body": {
                                 "type": "TextualBody",
@@ -413,9 +402,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-21",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-20",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=3202,5523,64,121",
                             "body": {
                                 "type": "TextualBody",
@@ -424,9 +413,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-22",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-21",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=3405,8088,137,229",
                             "body": {
                                 "type": "TextualBody",
@@ -435,9 +424,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-23",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-22",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=5387,4228,106,140",
                             "body": {
                                 "type": "TextualBody",
@@ -446,9 +435,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-24",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-23",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=2745,4214,207,201",
                             "body": {
                                 "type": "TextualBody",
@@ -457,9 +446,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-25",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-24",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=5848,5456,110,99",
                             "body": {
                                 "type": "TextualBody",
@@ -468,9 +457,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-26",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-25",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=5478,2701,446,292",
                             "body": {
                                 "type": "TextualBody",
@@ -479,9 +468,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-27",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-26",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=5882,6231,115,96",
                             "body": {
                                 "type": "TextualBody",
@@ -490,9 +479,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-28",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-27",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=6043,6091,190,184",
                             "body": {
                                 "type": "TextualBody",
@@ -501,9 +490,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-29",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-28",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=6341,6048,61,116",
                             "body": {
                                 "type": "TextualBody",
@@ -512,9 +501,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-30",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-29",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=1887,9350,267,274",
                             "body": {
                                 "type": "TextualBody",
@@ -523,9 +512,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-31",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-30",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=4222,5761,133,99",
                             "body": {
                                 "type": "TextualBody",
@@ -534,9 +523,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-32",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-31",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=3582,3749,181,182",
                             "body": {
                                 "type": "TextualBody",
@@ -545,9 +534,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-33",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-32",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=3204,4686,61,683",
                             "body": {
                                 "type": "TextualBody",
@@ -556,9 +545,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-34",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-33",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=3906,6418,60,107",
                             "body": {
                                 "type": "TextualBody",
@@ -567,9 +556,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-35",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-34",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=3782,6688,539,102",
                             "body": {
                                 "type": "TextualBody",
@@ -578,9 +567,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-36",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-35",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=5207,5096,142,145",
                             "body": {
                                 "type": "TextualBody",
@@ -589,9 +578,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-37",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-36",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=5894,4981,126,219",
                             "body": {
                                 "type": "TextualBody",
@@ -600,9 +589,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-38",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-37",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=3229,5439,189,88",
                             "body": {
                                 "type": "TextualBody",
@@ -611,9 +600,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-39",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1/annopage-2/anno-38",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/faldaromemapbiasa/canvas/1#xywh=2179,4969,129,181",
                             "body": {
                                 "type": "TextualBody",

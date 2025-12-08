@@ -4,14 +4,14 @@
     "type": "Manifest",
     "label": {
         "none": [
-            null
+            "Roma con li forti"
         ]
     },
     "metadata": [
         {
             "label": {
                 "none": [
-                    "Document_type"
+                    "Document type"
                 ]
             },
             "value": {
@@ -35,19 +35,7 @@
         {
             "label": {
                 "none": [
-                    "Title"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Roma con li forti"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Overall_dimensions"
+                    "Overall dimensions"
                 ]
             },
             "value": {
@@ -107,7 +95,7 @@
         {
             "label": {
                 "none": [
-                    "Language_of_document"
+                    "Language of document"
                 ]
             },
             "value": {
@@ -125,6 +113,18 @@
             "value": {
                 "none": [
                     "Altemps Palace at Monte Cavallo; Capitoline Hill (Campidoglio); Church of Santa Maria Maggiore; Church of Santa Maria Rotonda (Pantheon); Piazza Colonna; Roman Forum (Campo Vaccino); Vatican (Apostolic) Palace"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Summary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Titled Roma con li forti and dated 1557 in a cartouche, this map shows the new walls built by Pope Paul IV. This impression represents the first state of the plate, before additional text was added for later printings."
                 ]
             }
         }
@@ -195,18 +195,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1/annopage-2/anno-1",
                             "type": "Annotation",
-                            "motivation": "commenting",
-                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>Titled <em>Roma con li forti</em> and dated 1557 in a cartouche, this map shows the new walls built by Pope Paul IV.&nbsp;This impression represents the first state of the plate, before additional text was added for later printings.</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1/annopage-2/anno-2",
-                            "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1#xywh=7338,1313,1057,286",
                             "body": {
                                 "type": "TextualBody",
@@ -215,9 +204,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1/annopage-2/anno-3",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1/annopage-2/anno-2",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1#xywh=4243,2619,440,67",
                             "body": {
                                 "type": "TextualBody",
@@ -226,9 +215,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1/annopage-2/anno-4",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1/annopage-2/anno-3",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1#xywh=5542,2832,406,325",
                             "body": {
                                 "type": "TextualBody",
@@ -237,9 +226,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1/annopage-2/anno-5",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1/annopage-2/anno-4",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1#xywh=4738,3753,642,334",
                             "body": {
                                 "type": "TextualBody",
@@ -248,9 +237,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1/annopage-2/anno-6",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1/annopage-2/anno-5",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1#xywh=3904,3175,384,244",
                             "body": {
                                 "type": "TextualBody",
@@ -259,9 +248,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1/annopage-2/anno-7",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1/annopage-2/anno-6",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1#xywh=4003,4439,322,277",
                             "body": {
                                 "type": "TextualBody",
@@ -270,9 +259,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1/annopage-2/anno-8",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1/annopage-2/anno-7",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1#xywh=5825,3454,228,123",
                             "body": {
                                 "type": "TextualBody",

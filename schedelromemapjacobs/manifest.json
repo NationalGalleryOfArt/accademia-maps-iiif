@@ -4,14 +4,14 @@
     "type": "Manifest",
     "label": {
         "none": [
-            null
+            "Roma, from the Liber chronicarum"
         ]
     },
     "metadata": [
         {
             "label": {
                 "none": [
-                    "Document_type"
+                    "Document type"
                 ]
             },
             "value": {
@@ -35,19 +35,7 @@
         {
             "label": {
                 "none": [
-                    "Title"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Roma, from the Liber chronicarum (Nuremberg Chronicle)"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Overall_dimensions"
+                    "Overall dimensions"
                 ]
             },
             "value": {
@@ -119,7 +107,7 @@
         {
             "label": {
                 "none": [
-                    "Language_of_document"
+                    "Language of document"
                 ]
             },
             "value": {
@@ -137,6 +125,18 @@
             "value": {
                 "none": [
                     "Vatican (Apostolic) Palace; Hospital of Santo Spirito; Church of Santa Maria del Popolo; Church of Santa Maria Rotonda (Pantheon); Altemps Palace at Monte Cavallo; Savelli Palace"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Summary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "This view of Rome was printed in Schedel's Liber chronicarum, printed by Anton Koberger (c. 1440/1445‒1513), best known as the Nuremberg Chronicle on account of its place of origin. Based on a plan by Giacopo Filippo, the woodblock was cut by Michael Wolgemut and Wilhelm Pleydenwurff, two artists in the circle of Albrecht Dürer. The map dates to the period of the earliest extant statutes of the Universitas Picturae ac Miniaturae (1478)."
                 ]
             }
         }
@@ -207,18 +207,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/schedelromemapjacobs/canvas/1/annopage-2/anno-1",
                             "type": "Annotation",
-                            "motivation": "commenting",
-                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/schedelromemapjacobs/canvas/1",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>This view of Rome was printed in Schedel's <em>Liber chronicarum</em>, printed by Anton Koberger (c. 1440/1445‒1513), best known as the Nuremberg Chronicle on account of its place of origin. Based on a plan by Giacopo Filippo, the woodblock was cut by Michael Wolgemut and Wilhelm Pleydenwurff, two artists in the circle of Albrecht Dürer. The map dates to the period of the earliest extant statutes of the Universitas Picturae ac Miniaturae (1478).</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/schedelromemapjacobs/canvas/1/annopage-2/anno-2",
-                            "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/schedelromemapjacobs/canvas/1#xywh=6657,2863,1266,1029",
                             "body": {
                                 "type": "TextualBody",
@@ -227,9 +216,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/schedelromemapjacobs/canvas/1/annopage-2/anno-3",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/schedelromemapjacobs/canvas/1/annopage-2/anno-2",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/schedelromemapjacobs/canvas/1#xywh=5508,4095,1001,1025",
                             "body": {
                                 "type": "TextualBody",
@@ -238,9 +227,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/schedelromemapjacobs/canvas/1/annopage-2/anno-4",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/schedelromemapjacobs/canvas/1/annopage-2/anno-3",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/schedelromemapjacobs/canvas/1#xywh=8201,5627,869,1044",
                             "body": {
                                 "type": "TextualBody",
@@ -249,9 +238,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/schedelromemapjacobs/canvas/1/annopage-2/anno-5",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/schedelromemapjacobs/canvas/1/annopage-2/anno-4",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/schedelromemapjacobs/canvas/1#xywh=2496,4596,1082,1179",
                             "body": {
                                 "type": "TextualBody",
@@ -260,9 +249,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/schedelromemapjacobs/canvas/1/annopage-2/anno-6",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/schedelromemapjacobs/canvas/1/annopage-2/anno-5",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/schedelromemapjacobs/canvas/1#xywh=1043,4528,884,694",
                             "body": {
                                 "type": "TextualBody",
@@ -271,9 +260,9 @@
                             }
                         },
                         {
-                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/schedelromemapjacobs/canvas/1/annopage-2/anno-7",
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/schedelromemapjacobs/canvas/1/annopage-2/anno-6",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/schedelromemapjacobs/canvas/1#xywh=501,5537,1874,851",
                             "body": {
                                 "type": "TextualBody",
