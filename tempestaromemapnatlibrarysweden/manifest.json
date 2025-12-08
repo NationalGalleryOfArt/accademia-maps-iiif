@@ -1,0 +1,607 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Recens prout hodie iacet almae urbis Romae"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Map"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "National Library of Sweden, Stockholm"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Overall dimensions"
+                ]
+            },
+            "value": {
+                "none": [
+                    "109 x 245 cm (sheet Size: 54 x 40 cm)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Antonio Tempesta"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1593"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "National Library of Sweden, Stockholm"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Medium"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Etching with some engraving"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Latin"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Places"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Altemps Palace at Monte Cavallo; Borgo di Sant'Agata; Capitoline Hill (Campidoglio); Church of San Giovanni dei Fiorentini; Church of San Giuseppe dei Falegnami; Church of San Lorenzo ai Monti; Church of San Lorenzo in Lucina; Church of San Luca; Church of San Luigi dei Francesci; Church of San Nicola dei Lorenesi; Church of San Nicola in Carcere; Church of San Pietro in Carcere; Church of Sant'Agata dei Goti; Church of Sant'Angelo in Pescheria; Church of Sant'Atanasio dei Greci; Church of Santa Maria del Popolo; Church of Santa Maria dell'Orto; Church of Santa Maria di Loreto; Church of Santa Maria in Ara Coeli; Church of Santa Maria Maggiore; Church of Santa Maria Rotonda (Pantheon); Church of Santa Maria sopra Minerva; Church of Santa Martina; Church of Santi Luca e Martina; Crescenzi Palace; Farnese Palace; Hospital of Santo Spirito; Oratory of Sant'Orsola della Pietà; Piazza Colonna; Piazza della Minerva; Piazza di San Lorenzo in Lucina; Piazza Navona; Piazza Sforza Capo le Case; Porta Maggiore (new Place); Roman Forum (Campo Vaccino); Roman Seminary; Rome; Savelli Palace; Trinita dei Monti; Vatican (Apostolic) Palace; Via Frattina"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Summary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Comprised of twelve plates, Antonio Tempesta’s Pianta di Roma, published in 1593, is titled Recens prout hodie iacet almae urbis Romae cum omnibus viis aedificiisque prospectus accuratissime delineatus. It appeared in the same year in which the first-known statement of the goals and purposes of the Accademia di San Luca was written by its six deputies and ratified by the initial members."
+                ]
+            }
+        }
+    ],
+    "rights": "CC BY 4.0 (Attribution 4.0 International) https://creativecommons.org/licenses/by/4.0/",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/b04ac9927ba89833d4e1821c505e17b4/full/300,140/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 140,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1",
+            "type": "Canvas",
+            "height": 7470,
+            "width": 16000,
+            "label": {
+                "none": [
+                    "TempestaRomeMap"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/b04ac9927ba89833d4e1821c505e17b4/full/300,140/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 140,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/b04ac9927ba89833d4e1821c505e17b4/full/2000,934/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 934,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/b04ac9927ba89833d4e1821c505e17b4",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1#xywh=13869,3449,271,251",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria dell'Orto (label: T[emplum] S[anctae] M[ariae] de Ho[rto])</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-2/anno-2",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1#xywh=9587,2652,464,246",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Savelli Palace (label: T[eatrum] Marcelli)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-2/anno-3",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1#xywh=9323,2849,207,239",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Sant'Angelo in Pescheria (label: T[emplum] S[ancti] Angeli)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-2/anno-4",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1#xywh=9247,1881,141,184",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Roman Forum (Campo Vaccino) (unlabeled)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-2/anno-5",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1#xywh=8588,2269,853,301",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Capitoline Hill (Campidoglio) (labels: Capitolium; m[ons] capitolinus)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-2/anno-6",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1#xywh=8859,2116,38,89",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>The Church of Santa Martina (partially obscured on this map by the Campidoglio) was ceded to the Università dei Pittori in 1588, and was the home of the Accademia di San Luca from its foundation in 1593. It was later referred to as the Church of Santi Luca e Martina.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-2/anno-7",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1#xywh=8343,1985,106,107",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of San Lorenzo ai Monti (unlabeled)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-2/anno-8",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1#xywh=8251,2163,264,481",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria in Aracoeli (label: Ara celi)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-2/anno-9",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1#xywh=8374,126,166,202",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Porta Maggiore (label: p. maior)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-2/anno-10",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1#xywh=8247,4683,465,423",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Farnese Palace (label: Pal[atium] Farnesioru[m])</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-2/anno-11",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1#xywh=7517,2257,213,240",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria di Loreto (label: S[anctae] Mariae Laureta[nae])</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-2/anno-12",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1#xywh=7195,1423,202,131",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Sant'Agata dei Goti (label: S[ancta] Agata); the Borgo di Sant'Agata was located near the church.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-2/anno-13",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1#xywh=6645,539,348,396",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria Maggiore (label: T[emplum] S[anctae] Mariae Maioris)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-2/anno-14",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1#xywh=6331,916,139,170",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>The Church of San Luca (approximate location) was razed by 1588. By this time the Università dei Pittori was centered at the Church of Santa Martina in the Roman Forum, later referred to as the Church of Santi Luca e Martina, which was the home of the Accademia di San Luca from its foundation in 1593.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-2/anno-15",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1#xywh=6605,1372,294,260",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Altemps Palace at Monte Cavallo was built on the site of the Baths of Constantine (label: Thermae Constantini)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-2/anno-16",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1#xywh=6397,3000,301,273",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria sopra Minerva (label: T[emplum] S[anctae] Mariae super mineruam)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-2/anno-17",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1#xywh=6444,3273,252,67",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Piazza della Minerva (unlabeled)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-2/anno-18",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1#xywh=6066,3274,377,272",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria Rotonda (Pantheon) (label: T[emplum] S[anctae] Mariae Rotonde)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-2/anno-19",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1#xywh=6157,3484,95,98",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Crescenzi Palace (unlabeled; approximate location)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-2/anno-20",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1#xywh=5784,3568,199,174",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of San Luigi dei Francesci (unlabeled)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-2/anno-21",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1#xywh=5664,4005,947,110",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Piazza Navona (label: Platea Agonis)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-2/anno-22",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1#xywh=4261,2659,263,194",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of San Lorenzo in Lucina (label: T[emplum] S[ancti] Laure[n]tii in Lucina)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-2/anno-23",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1#xywh=1067,4871,571,849",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Vatican (Apostolic) Palace (label: Belvedere)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-2/anno-24",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1#xywh=4141,2649,118,202",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Piazza di San Lorenzo in Lucina (unlabeled)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-2/anno-25",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1#xywh=5337,2651,310,172",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Piazza Colonna (label: Platea Columna)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-2/anno-26",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1#xywh=4815,5538,295,304",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of San Giovanni dei Fiorentini (label: T[emplum] S[ancti] Ioannis Floren[tinorum])</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-2/anno-27",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1#xywh=3257,5786,631,454",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Hospital of Santo Spirito (label: T[emplum] S[ancti] [S]piritus in Saxia)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-2/anno-28",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1#xywh=2229,2273,158,210",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Sant'Atanasio dei Greci (label: T[emplum] S[ancti] Athanasii Grecor[um])</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-2/anno-29",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1#xywh=3120,1491,345,291",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Trinità dei Monti (label: T[emplum] Trinitatis [in] mont[e])</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-2/anno-30",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1#xywh=4099,1252,343,237",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Piazza Sforza Capo le Case (labels: Vinea sfortia; capo a le case)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-2/anno-31",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1#xywh=352,2070,287,379",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria del Popolo (label: T[emplum] S[ancti] Mariae de populo)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-2/anno-32",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1#xywh=4017,2329,50,79",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Via Frattina (unlabeled)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-2/anno-33",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1#xywh=8682,2174,175,93",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>The Church of San Giuseppe dei Falegnami is obscured by the Campidoglio on this map. The Church of San Pietro in Carcere is located beneath the Church of San Giuseppe dei Falegnami.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-2/anno-34",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1#xywh=5655,4171,120,109",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>The Church of San Nicola dei Lorenesi is here obscured by the bell tower of the church of Santa Maria dell'Anima.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-2/anno-35",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1#xywh=10053,2638,153,87",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>The Church of San Nicola in Carcere was located in an <em>isola</em> in this area.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-2/anno-36",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1#xywh=4954,5427,215,111",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>The Oratory of Sant'Orsola della Pietà is located in the <em>isola</em> in front of San Giovanni dei Fiorentini. The oratory was destroyed during the construction of the Corso Vittorio Emmanuele at the end of the nineteenth century.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1/annopage-2/anno-37",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/tempestaromemapnatlibrarysweden/canvas/1#xywh=6185,2964,103,128",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Roman Seminary (approximate location)</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
