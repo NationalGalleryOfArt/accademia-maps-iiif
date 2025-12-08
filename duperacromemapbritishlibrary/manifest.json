@@ -218,7 +218,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1/annopage-2/anno-2",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1#xywh=4273,2119,171,197",
                             "body": {
                                 "type": "TextualBody",
@@ -229,7 +229,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1/annopage-2/anno-3",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1#xywh=4462,2641,58,68",
                             "body": {
                                 "type": "TextualBody",
@@ -240,7 +240,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1/annopage-2/anno-4",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1#xywh=7216,3166,193,157",
                             "body": {
                                 "type": "TextualBody",
@@ -251,7 +251,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1/annopage-2/anno-5",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1#xywh=3891,3834,210,238",
                             "body": {
                                 "type": "TextualBody",
@@ -262,7 +262,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1/annopage-2/anno-6",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1#xywh=2200,5255,220,241",
                             "body": {
                                 "type": "TextualBody",
@@ -273,7 +273,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1/annopage-2/anno-7",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1#xywh=4446,1880,158,167",
                             "body": {
                                 "type": "TextualBody",
@@ -284,7 +284,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1/annopage-2/anno-8",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1#xywh=4908,2695,47,92",
                             "body": {
                                 "type": "TextualBody",
@@ -295,7 +295,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1/annopage-2/anno-9",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1#xywh=4787,2025,43,38",
                             "body": {
                                 "type": "TextualBody",
@@ -306,7 +306,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1/annopage-2/anno-10",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1#xywh=6508,1612,185,197",
                             "body": {
                                 "type": "TextualBody",
@@ -317,7 +317,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1/annopage-2/anno-11",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1#xywh=4479,3315,174,109",
                             "body": {
                                 "type": "TextualBody",
@@ -328,7 +328,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1/annopage-2/anno-12",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1#xywh=6026,2735,76,69",
                             "body": {
                                 "type": "TextualBody",
@@ -339,7 +339,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1/annopage-2/anno-13",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1#xywh=4468,2579,72,67",
                             "body": {
                                 "type": "TextualBody",
@@ -350,7 +350,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1/annopage-2/anno-14",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1#xywh=3964,2693,189,113",
                             "body": {
                                 "type": "TextualBody",
@@ -361,7 +361,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1/annopage-2/anno-15",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1#xywh=4083,1230,188,174",
                             "body": {
                                 "type": "TextualBody",
@@ -372,7 +372,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1/annopage-2/anno-16",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1#xywh=6104,3462,235,160",
                             "body": {
                                 "type": "TextualBody",
@@ -383,7 +383,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1/annopage-2/anno-17",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1#xywh=4094,4001,97,150",
                             "body": {
                                 "type": "TextualBody",
@@ -394,7 +394,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1/annopage-2/anno-18",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1#xywh=6498,3199,79,88",
                             "body": {
                                 "type": "TextualBody",
@@ -405,7 +405,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1/annopage-2/anno-19",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1#xywh=4329,1969,40,46",
                             "body": {
                                 "type": "TextualBody",
@@ -416,7 +416,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1/annopage-2/anno-20",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1#xywh=5695,2130,104,68",
                             "body": {
                                 "type": "TextualBody",
@@ -427,7 +427,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1/annopage-2/anno-21",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1#xywh=4731,3437,361,70",
                             "body": {
                                 "type": "TextualBody",
@@ -438,7 +438,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1/annopage-2/anno-22",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1#xywh=4728,2630,103,92",
                             "body": {
                                 "type": "TextualBody",
@@ -449,7 +449,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1/annopage-2/anno-23",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1#xywh=5885,2162,24,45",
                             "body": {
                                 "type": "TextualBody",
@@ -460,7 +460,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1/annopage-2/anno-24",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1#xywh=6117,1679,44,41",
                             "body": {
                                 "type": "TextualBody",
@@ -471,7 +471,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1/annopage-2/anno-25",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1#xywh=5458,3912,190,146",
                             "body": {
                                 "type": "TextualBody",
@@ -482,7 +482,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1/annopage-2/anno-26",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1#xywh=5421,2493,39,45",
                             "body": {
                                 "type": "TextualBody",
@@ -493,7 +493,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1/annopage-2/anno-27",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1#xywh=5259,2306,120,101",
                             "body": {
                                 "type": "TextualBody",
@@ -504,7 +504,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1/annopage-2/anno-28",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1#xywh=4544,2423,150,75",
                             "body": {
                                 "type": "TextualBody",
@@ -515,7 +515,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1/annopage-2/anno-29",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1#xywh=5411,2251,193,191",
                             "body": {
                                 "type": "TextualBody",
@@ -526,7 +526,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1/annopage-2/anno-30",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1#xywh=6012,2914,41,368",
                             "body": {
                                 "type": "TextualBody",
@@ -537,7 +537,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1/annopage-2/anno-31",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1#xywh=7385,1089,510,395",
                             "body": {
                                 "type": "TextualBody",
@@ -548,7 +548,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1/annopage-2/anno-32",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1#xywh=5704,2265,94,106",
                             "body": {
                                 "type": "TextualBody",
@@ -559,7 +559,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1/annopage-2/anno-33",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1#xywh=6120,1562,51,101",
                             "body": {
                                 "type": "TextualBody",
@@ -570,7 +570,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1/annopage-2/anno-34",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1#xywh=5632,2717,74,63",
                             "body": {
                                 "type": "TextualBody",
@@ -581,7 +581,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1/annopage-2/anno-35",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/canvas/1#xywh=5443,1586,101,112",
                             "body": {
                                 "type": "TextualBody",
