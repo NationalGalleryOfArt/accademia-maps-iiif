@@ -1,0 +1,607 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Recentis Romae ichnographia et hypsographia"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Map"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Collection of Fredrika and Paul Jacobs"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Overall dimensions"
+                ]
+            },
+            "value": {
+                "none": [
+                    "67 x 86 cm"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Joachim von Sandrart; after Giovanni Battista Falda"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1677"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Collection of Fredrika and Paul Jacobs"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Medium"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Etching and engraving"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Latin, German"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Places"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Altemps Palace at Monte Cavallo; Borgo di Sant'Agata; Capitoline Hill (Campidoglio); Church of San Giovanni dei Fiorentini; Church of San Giuseppe dei Falegnami; Church of San Lorenzo ai Monti; Church of San Lorenzo in Lucina; Church of San Luca; Church of San Luigi dei Francesci; Church of San Nicola dei Lorenesi; Church of San Nicola in Carcere; Church of San Pietro in Carcere; Church of Sant'Agata dei Goti; Church of Sant'Angelo in Pescheria; Church of Sant'Atanasio dei Greci; Church of Santa Maria del Popolo; Church of Santa Maria dell'Orto; Church of Santa Maria di Loreto; Church of Santa Maria in Ara Coeli; Church of Santa Maria Maggiore; Church of Santa Maria Rotonda (Pantheon); Church of Santa Maria sopra Minerva; Church of Santa Martina; Church of Santi Luca e Martina; Crescenzi Palace; Farnese Palace; Hospital of Santo Spirito; Monti (Rione); Oratory of Sant'Orsola della Pietà; Piazza Colonna; Piazza della Minerva; Piazza di San Lorenzo in Lucina; Piazza Navona; Piazza Sforza Capo le Case; Porta Maggiore (new place); Roman Forum (Campo Vaccino); Roman Seminary; Savelli Palace; Trinita dei Monti; Vatican (Apostolic) Palace; Via Frattina"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Summary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Comprising two sheets, this map is titled in full Recentis Romae ichnographia et hypsographia sive planta et facies ad magnificentiam qua prioribus annis urbs ipsa directa exculta et decorata est. Like Jan van Vianen's map, this view of Rome is based on Falda's map of 1676. This digital manipulation gathers both plates, printed on separate sheets, in one image. The term \"ichnographic\" refers to maps on which all buildings and features appear perfectly perpendicular from a single, aerial viewpoint; \"hypsographic,\" by contrast, concerns topographical relief as represented on a map."
+                ]
+            }
+        }
+    ],
+    "rights": "CC BY 4.0 (Attribution 4.0 International) https://creativecommons.org/licenses/by/4.0/",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/db5921413040bef6355243581e551e8d/full/300,230/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 230,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1",
+            "type": "Canvas",
+            "height": 10542,
+            "width": 13745,
+            "label": {
+                "none": [
+                    "SandrartRomeMap"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/db5921413040bef6355243581e551e8d/full/300,230/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 230,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/db5921413040bef6355243581e551e8d/full/2000,1534/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1534,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/db5921413040bef6355243581e551e8d",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1#xywh=9755,1126,242,196",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Porta Maggiore (label: P[orta] Major)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-2/anno-2",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1#xywh=7734,4483,446,364",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Roman Forum (Campo Vaccino) (label: Forum Boarium novum)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-2/anno-3",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1#xywh=7524,5783,103,83",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Sant'Angelo in Pescheria (legend 10: S[ancti] Angeli Michaelis in foro Piscario R[egio] S[anc]ti Angeli)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-2/anno-4",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1#xywh=7271,4892,175,408",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria in Aracoeli (legend 97: S[anctae] M[ariae] ab Ara Coeli in Capitolio R[egio] Campitelli)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-2/anno-5",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1#xywh=3972,3900,319,184",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Trinità dei Monti (legend 172: S[ancti] Trinitatis in monte Pincio R[egio] Campi Martii)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-2/anno-6",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1#xywh=5787,5440,153,235",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria sopra Minerva (legend 112: S[anctae] M[ariae] Supra Minervam R. Pinea)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-2/anno-7",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1#xywh=2369,4692,95,276",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Santa Maria del Popolo (legend 121, S[anctae] M[ariae] de Populo ad Portam Flaminiam R[egio] Campi Martii)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-2/anno-8",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1#xywh=6330,7118,201,134",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Farnese Palace (legend 202, P[alatium] Farnesianum R[egio] Arenulae), facing Piazza Farnese (label: Pl[atea] Farnesiana)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-2/anno-9",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1#xywh=8635,6728,165,162",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria dell'Orto (legend 107: S[anctae] M[ariae] de Horto cum hospitale R[egio] Trans Tiberim)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-2/anno-10",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1#xywh=6346,3913,156,163",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Altemps Palace at Monte Cavallo (legend 209: P[alatium] Mazzarrinum R[egio] Montium) was named for the Altemps family in the early 17th century and was expanded by later owners, including Cardinal Mazarin (1602–1661), for whom it was renamed.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-2/anno-11",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1#xywh=4825,7493,186,241",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of San Giovanni dei Fiorentini (legend 70: S[anctus] Io[annis] Baptistae nat[ionis] Florent[inorum] R[egio] Pontis)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-2/anno-12",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1#xywh=7648,5707,153,133",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Savelli Palace (legend 214: P[alatium] Sabellorum olim Theatrum Marcelli R[egio] Ripae)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-2/anno-13",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1#xywh=4204,7904,333,222",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Hospital of Santo Spirito (legend 165: S[ancti] Spiritus in Saxia cum hosp[itale] R[egio] Burgi)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-2/anno-14",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1#xywh=7483,5112,261,190",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Capitoline Hill (Campidoglio) (legend 192: P[alatium] Capitolium R[egio] Campitelli)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-2/anno-15",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1#xywh=4918,3351,185,136",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Piazza di Sforza Capo le Case (label: Pl[atea] Barberini)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-2/anno-16",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1#xywh=7546,4836,125,71",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>The Church of San Pietro in Carcere (legend 146: S[ancti] Petri in Carcere et Iosephi in foro Boario R[egio] Campitelli) became the home of the falegnami (carpenters) in 1540. The Church of San Giuseppe dei Falegnami, completed 1602, was built atop the earlier structure. In this map the churches are identified together.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-2/anno-17",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1#xywh=5505,5638,183,147",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria Rotonda (Pantheon) (legend 111: S[anctae] M[ariae] ad Martyres vulgo la Rotonda seu Pantheon R[egio] Columnae)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-2/anno-18",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1#xywh=4535,5072,173,118",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of San Lorenzo in Lucina (legend 82: S[anti] Laurentii in Lucina R[egio] Campi Martii)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-2/anno-19",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1#xywh=5311,4964,146,150",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Piazza Colonna (label: Pl[atea] Columna)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-2/anno-20",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1#xywh=3533,4594,94,162",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Sant'Atanasio dei Greci (legend 17: S[ancti] Athanasii cum Coll[egi]o Graecor R[egio] Campi Martii)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-2/anno-21",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1#xywh=7105,2486,291,282",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria Maggiore (legend 110: S[anctae] M[ariae] Majoris in Esquiliis R[egio] Montium)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-2/anno-22",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1#xywh=5208,6149,313,88",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Piazza Navona (label: Pl[atea] Agonis) is depicted with three fountains in this map published 1677, including the Fountain of the Four Rivers (Fontana dei Quattro Fiumi), completed in 1651 and designed by Gian Lorenzo Bernini, a principe of the Accademia di San Luca</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-2/anno-23",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1#xywh=5768,5641,119,33",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Piazza della Minerva</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-2/anno-24",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1#xywh=7904,5604,111,127",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of San Nicola in Carcere (legend 142: S[ancti] Nicolai in Carcere R[egio] Ripae)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-2/anno-25",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1#xywh=3142,8986,243,217",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Vatican (Apostolic) Palace (legend 210: Palatium Pontificium Vaticanum)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-2/anno-26",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1#xywh=7495,4684,147,143",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>The Church of Santi Luca e Martina (legend 85: S[ancti] Lucae et Martinae in foro Boario R[egio] Campitelli) was home to the Università dei Pittori by 1588 and the Accademia di San Luca from its foundation in 1593. This map shows the facade and dome of the new church designed by Pietro da Cortona, a principe of the Accademia di San Luca at points during his career. Cortona began his designs in the 1630s, but the church depicted here was not completed until the late 17th century.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-2/anno-27",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1#xywh=6763,4661,160,198",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria di Loreto (legend 108: S[anctae] M[ariae] Lauretana ad Columnam Trajan R[egio] Montium)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-2/anno-28",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1#xywh=5557,5248,102,120",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Roman Seminary (legend 237: Seminarium Romanum R[egio] Columnae)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-2/anno-29",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1#xywh=5198,6207,51,98",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of San Nicola dei Lorensi (unlabeled)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-2/anno-30",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1#xywh=4489,5188,104,45",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Piazza di San Lorenzo in Lucina</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-2/anno-31",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1#xywh=6836,3872,219,187",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Sant'Agata dei Goti (unlabeled; approximate location); the Borgo di Sant'Agata was located near the church.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-2/anno-32",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1#xywh=6813,2559,228,239",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>The Church of San Luca (unlabeled; approximate location) was razed by 1588. By this time the Università dei Pittori was centered at the Church of Santa Martina in the Roman Forum, later referred to as the Church of Santi Luca e Martina, which was the home of the Accademia di San Luca from its foundation in 1593.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-2/anno-33",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1#xywh=4771,7433,88,99",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>The Oratory of Sant'Orsola della Pietà (unlabeled) was located in an <em>isola</em> directly across from the Church of San Giovanni dei Fiorentini.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-2/anno-34",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1#xywh=5537,5785,171,65",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>The Crescenzi Palace (unlabeled) was located in an isola in this approximate area.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-2/anno-35",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1#xywh=4467,4328,134,621",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Via Frattina (unlabeled)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-2/anno-36",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1#xywh=7176,4459,85,87",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of San Lorenzo ai Monti (unlabeled)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1/annopage-2/anno-37",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/sandrartromemapjacobs/canvas/1#xywh=5293,5926,95,106",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of San Luigi dei Francesi (legend 90: S[ancti] Ludovici nat[ionis] Galliae cum hosp[itale] R[egio] S[anc]ti Eust[achii]; this legend lacks a reference number on this map)</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
