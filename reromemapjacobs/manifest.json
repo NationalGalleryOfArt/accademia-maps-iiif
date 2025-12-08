@@ -1,0 +1,277 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Roma con li forti"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Map"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Collection of Fredrika and Paul Jacobs"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Overall dimensions"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Sheet size: 34.8 x 46.5 cm"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Sebastiano de Re"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1557"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Collection of Fredrika and Paul Jacobs"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Medium"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Etching and engraving"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Latin"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Places"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Altemps Palace at Monte Cavallo; Capitoline Hill (Campidoglio); Church of Santa Maria Maggiore; Church of Santa Maria Rotonda (Pantheon); Piazza Colonna; Roman Forum (Campo Vaccino); Vatican (Apostolic) Palace"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Summary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Titled Roma con li forti and dated 1557 in a cartouche, this map shows the new walls built by Pope Paul IV. This impression represents the first state of the plate, before additional text was added for later printings."
+                ]
+            }
+        }
+    ],
+    "rights": "CC BY 4.0 (Attribution 4.0 International) https://creativecommons.org/licenses/by/4.0/",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/41ab29caaf108cc52cb69401ba79443f/full/300,224/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 224,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1",
+            "type": "Canvas",
+            "height": 6781,
+            "width": 9065,
+            "label": {
+                "none": [
+                    "ReRomeMap"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/41ab29caaf108cc52cb69401ba79443f/full/300,224/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 224,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/41ab29caaf108cc52cb69401ba79443f/full/2000,1496/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1496,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/41ab29caaf108cc52cb69401ba79443f",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1#xywh=7338,1313,1057,286",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Vatican (Apostolic) Palace (labels: Vaticanvs; Belvedere)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1/annopage-2/anno-2",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1#xywh=4243,2619,440,67",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Capitoline Hill&nbsp;(label: Capitollinvs)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1/annopage-2/anno-3",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1#xywh=5542,2832,406,325",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria Rotonda (Pantheon) (label: Panteon)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1/annopage-2/anno-4",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1#xywh=4738,3753,642,334",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>In the Middle Ages the Quirinal Hill (label: Mons Qvirinalis) was known as Monte Cavallo (lit. Horse Mountain), named for a pair of ancient marble sculptures (the <em>Dioscuri</em>, or Horse Tamers) that were recovered from the Baths of Constantine, which was later the site of the&nbsp;Altemps Palace at Monte Cavallo.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1/annopage-2/anno-5",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1#xywh=3904,3175,384,244",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Roman Forum (label: Forum Roma)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1/annopage-2/anno-6",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1#xywh=4003,4439,322,277",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria Maggiore (label: S[ancta] Maria Maggior)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1/annopage-2/anno-7",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-maps-iiif/reromemapjacobs/canvas/1#xywh=5825,3454,228,123",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Piazza Colonna (unlabeled)</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
