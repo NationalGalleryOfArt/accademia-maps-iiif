@@ -1,0 +1,32 @@
+{
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/vanvianenromemapjacobs/c7379f773094dab105494d9b57f10a95",
+  "type": "ImageService3",
+  "profile": "level0",
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8,
+        16,
+        32
+      ],
+      "width": 256
+    }
+  ],
+  "width": 10125,
+  "height": 7784,
+  "sizes": [
+    {
+      "width": 300,
+      "height": 231
+    },
+    {
+      "width": 2000,
+      "height": 1538
+    }
+  ]
+}
