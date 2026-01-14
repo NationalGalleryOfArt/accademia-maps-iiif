@@ -144,11 +144,11 @@
     "rights": "https://creativecommons.org/licenses/by/4.0/",
     "thumbnail": [
         {
-            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/47fdaf222a416a31e12238c107e6f72c/full/300,239/0/default.jpg",
+            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/duperacromemapbritishlibrary/47fdaf222a416a31e12238c107e6f72c/full/460,366/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
-            "height": 239,
-            "width": 300
+            "height": 366,
+            "width": 460
         }
     ],
     "items": [
