@@ -144,11 +144,11 @@
     "rights": "https://creativecommons.org/licenses/by/4.0/",
     "thumbnail": [
         {
-            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/munsterromemapjacobs/757b3888f21e6a30b2780d5d598f2deb/full/300,253/0/default.jpg",
+            "id": "https://nationalgalleryofart.github.io/accademia-maps-iiif/munsterromemapjacobs/757b3888f21e6a30b2780d5d598f2deb/full/720,608/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
-            "height": 253,
-            "width": 300
+            "height": 608,
+            "width": 720
         }
     ],
     "items": [
